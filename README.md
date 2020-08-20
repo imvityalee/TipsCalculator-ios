@@ -5,5 +5,3 @@ TipsCalcultaor made with Swift
  Tip Calculator  made according to the existing analogue 
 
 <img src="Screenshots/tipCalcultaro3.png" width="250">
-
-![](Screenshots/tipCalcultaro3.png)
